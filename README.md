@@ -1,6 +1,6 @@
 ## ATHLEAT
 
-* [Final Presentation](https://www.youtube.com/watch?v=kohhrJV1l6A)
+* [Final Presentation](https://www.youtube.com/watch?v=rPuzLf2ADGM)
 * [Initial Vision](https://youtu.be/kohhrJV1l6A)
 
 ## Architecture
